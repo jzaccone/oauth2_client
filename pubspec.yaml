@@ -13,6 +13,10 @@ dependencies:
   crypto: ^3.0.3
   flutter_secure_storage: ^8.0.0
   flutter_web_auth_2: ^2.2.1
+    git:
+      url: https://github.com/jzaccone/flutter_web_auth_2
+      path: flutter_web_auth_2
+      ref: ce44cae8709ea7eebb53af721bc18e6ddfdbfb21
   http: ^1.1.0
   meta: ^1.8.0
   random_string: ^2.3.1
